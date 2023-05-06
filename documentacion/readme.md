@@ -41,4 +41,15 @@
 
 ![img_8.png](img_8.png)
 
+## Creamos el archivo view y realizamos el push en la rama calidad
+
+![img_9.png](img_9.png)
+
+1.  Rama Main
+
+![img_10.png](img_10.png)
+
+2.  Rama Calidad
+
+![img_11.png](img_11.png)
 
