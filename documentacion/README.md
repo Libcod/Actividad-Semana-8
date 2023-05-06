@@ -95,6 +95,24 @@
 
 ## Se aplica el push para el cargue de interfaz grafica.
 
+![img_22.png](img_22.png)
+
+## UI
+![img_23.png](img_23.png)
+
+## Se realizan Pruebas por medio de la interfaz grafica, generando los resultados exitosos.
+
+1. Suma :
+![img_24.png](img_24.png)
+2. Resta :
+![img_25.png](img_25.png)
+3. Multiplicación:
+![img_26.png](img_26.png)
+4. Division :
+![img_27.png](img_27.png)
+
+## Se carga la aplicación a GitHub el resultado final
+
 
 
 
