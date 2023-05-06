@@ -112,6 +112,10 @@
 ![img_27.png](img_27.png)
 
 ## Se carga la aplicación a GitHub el resultado final
+![img_28.png](img_28.png)
+
+![img_29.png](img_29.png)
+
 
 
 
