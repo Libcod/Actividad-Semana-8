@@ -1,8 +1,12 @@
-# Actividad semana 7, 8.
+# Actividad semana 8.
 
 > Universidad Minuto de Dios.
 >
-> Libardo Salamanca Jimenez
+> Libardo Salamanca Jimenez ID: 244140
+> 
+> [GitHub https](https://github.com/Libcod/Actividad-Semana-8.git)
+> 
+> [GitHub SSH](git@github.com:Libcod/Actividad-Semana-8.git)
 
 ## Inicialización de la solución Git
 
