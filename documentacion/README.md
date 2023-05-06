@@ -67,6 +67,22 @@
 ## Se realiza la inclusion del archivo test_model para la generación de pruebas
 ![img_15.png](img_15.png)
 
-## Se aplica un git add . General y el commit con los datos de pruebas.
-> Se realizan validaciones de los valores en calculos de suma, resta, multiplicacion y division
+## Se aplica un (git add .) General y el commit con los datos de pruebas.
+> Se realizan validaciones de los valores en calculos de suma, resta, multiplicación y division
+
+![img_16.png](img_16.png)
+
+# Aplicación de Pruebas Unitarias (test)
+
+## Se aplica la creación de los escenarios a probar :
+
+![img_17.png](img_17.png)
+
+### Resultado de las pruebas:
+
+![img_18.png](img_18.png)
+
+### Result state
+![img_19.png](img_19.png)
+
 
