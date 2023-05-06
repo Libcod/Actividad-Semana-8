@@ -63,3 +63,10 @@
 ## Se realiza la inclusion del archivo readme enfocado a la documentación de la solución.
 
 ![img_14.png](img_14.png)
+
+## Se realiza la inclusion del archivo test_model para la generación de pruebas
+![img_15.png](img_15.png)
+
+## Se aplica un git add . General y el commit con los datos de pruebas.
+> Se realizan validaciones de los valores en calculos de suma, resta, multiplicacion y division
+
