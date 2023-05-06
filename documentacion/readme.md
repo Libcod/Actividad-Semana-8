@@ -33,3 +33,12 @@
 
 ![img_6.png](img_6.png)
 
+## Verificar primer push
+
+![img_7.png](img_7.png)
+
+## Creamos una nueva rama y la activamos
+
+![img_8.png](img_8.png)
+
+
