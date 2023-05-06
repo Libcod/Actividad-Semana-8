@@ -53,3 +53,9 @@
 
 ![img_11.png](img_11.png)
 
+## Unificamos los cambios aplicados en las dos ramas
+
+![img_12.png](img_12.png)
+
+
+
