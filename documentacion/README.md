@@ -59,3 +59,7 @@
 ## Realizamos la creación de los archivos MVC, definimos los métodos y las clases correspondiente a cada uno
 
 ![img_13.png](img_13.png)
+
+## Se realiza la inclusion del archivo readme enfocado a la documentación de la solución.
+
+![img_14.png](img_14.png)
