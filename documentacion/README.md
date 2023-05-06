@@ -85,4 +85,16 @@
 ### Result state
 ![img_19.png](img_19.png)
 
+## Se aplica el commit para el registro de resultados 
+
+![img_20.png](img_20.png)
+
+## Se consulta el estado del proyecto identificando los archivos modificados.
+
+![img_21.png](img_21.png)
+
+## Se aplica el push para el cargue de interfaz grafica.
+
+
+
 
