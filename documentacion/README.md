@@ -1,15 +1,15 @@
 # Actividad semana 7, 8.
 
 > Universidad Minuto de Dios.
-> 
+>
 > Libardo Salamanca Jimenez
-
 
 ## Inicialización de la solución Git
 
 ![img_2.png](img_2.png)
 
 ## Crear o renombrar la rama Main
+
 ![img.png](img.png)
 
 ## Agregar Archivo .gitignore
@@ -19,7 +19,6 @@
 ## Agregar los primeros archivos a git
 
 ![img_3.png](img_3.png)
-
 
 ## Validar los documentos pendientes por cargar a GitHub o con una modificación
 
@@ -45,11 +44,11 @@
 
 ![img_9.png](img_9.png)
 
-1.  Rama Main
+1. Rama Main
 
 ![img_10.png](img_10.png)
 
-2.  Rama Calidad
+2. Rama Calidad
 
 ![img_11.png](img_11.png)
 
@@ -57,5 +56,6 @@
 
 ![img_12.png](img_12.png)
 
+## Realizamos la creación de los archivos MVC, definimos los métodos y las clases correspondiente a cada uno
 
-
+![img_13.png](img_13.png)

@@ -6,8 +6,8 @@ class View:
         print("3. Multiply")
         print("4. Divide")
 
-        option = input()
+        self.option = input()
         print("Enter the number 1 :")
-        num1 = input()
+        self.num1 = input()
         print("Enter the number 2 :")
-        num2 = input()
+        self.num2 = input()
